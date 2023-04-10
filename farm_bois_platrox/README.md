@@ -12,7 +12,7 @@
 
 - Make sure all items from config are in items(Check `Inventory_Items` folder for more examples)
 
-- Add `ensure wasabi_mining` in your `server.cfg` *after* `ox_lib`
+- Add `ensure farm_bois_platrox` in your `server.cfg` *after* `ox_lib`
 
 ### Extra Information
 - Inventory images included in the `Inventory_Items/InventoryImages` directory
